@@ -1,4 +1,4 @@
 mkdir build
-javac -d build src/Main3.java
-java -cp .;build Main3
+javac -d build src/Main4.java
+java -cp .;build Main4
 @pause
