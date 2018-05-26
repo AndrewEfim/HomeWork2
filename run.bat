@@ -1,3 +1,4 @@
-
-java D:\git_tutorial\work\Less2\1 Main1.class
+mkdir build
+javac -d build src/Main1.java
+java -cp .;build Main1 
 @pause
